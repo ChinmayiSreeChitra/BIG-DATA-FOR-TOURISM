@@ -1,0 +1,22 @@
+#install python
+•pip install python 
+
+#install yelpapi
+•pip install yelapi 
+
+#install requests for producer/consumer kafka-python
+•pip install requests 
+
+#install hdfs
+•pip install hdfs 
+
+#install java
+•Java –version
+
+#install kafka
+•wget https://downloads.apache.org/kafka/3.4.0/kafka_2.12-3.4.0.tgz
+
+#install hadoop
+•wget https://dlcdn.apache.org/hadoop/common/hadoop-3.3.5/hadoop-3.3.5.tar.gz
+
+
